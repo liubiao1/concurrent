@@ -1,4 +1,6 @@
-package com.liubiao.concurrent.monitor2;
+package com.liubiao.concurrent.application;
+
+import com.liubiao.concurrent.monitor2.IAccount;
 
 import java.util.ArrayList;
 import java.util.List;
